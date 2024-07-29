@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Você é um(a) jovem curioo e aventureiro, certa noite andava pelas sombrias e gelidas ruas do calçadão de Pequena Londres. enquanto andava se depara com um único estabelecimento aberto, de la um cheiro agradavel e atordoante veio em sua direção. O que que você pensa?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "Decide entrar na no estabelecimento sombrio e misterioso e descobrir o que era aquele cheiro tão bom que havia sentido",
+                afirmacao: "Seguiu sua curiosidade sem pensar duas vezes e foi atrás de descobrir que cheiro era aquele. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "fica com medo e receio do lugar, mas se aproxima do estabelecimento",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
