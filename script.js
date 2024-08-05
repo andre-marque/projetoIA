@@ -14,15 +14,15 @@ const perguntas = [
             },
             {
                 texto: "fica com medo e receio do lugar, mas se aproxima do estabelecimento",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "mesmo com medo, sentiu que tinha que seguir sua curiosidade."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Enquanto se aproxima, voê percebe o cheiro ficando cada vez mais e mais forte, e entrando da de frente com uma bancada que seria a recepção, porém sem ninguém atrás. O que você faz?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Toca a campainha do balcâo para chamar o atendente.",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
