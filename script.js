@@ -32,30 +32,30 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "O atendente te nota, e se aproxima com uma capa escura envolto em uma aura de mistério. Quando ele enfim chega perto o bastante para que você consiga ver o rosto dele, você não acredita no que esta a sua frente. O atendente era na verdade Michael Jackson que não morreu, mas sim forjou sua propriamorte e abriu um restaurante no centro de Londrina. Qual sua reação?   ?",
+        enunciado: "O atendente te nota, e se aproxima com uma capa escura envolto em uma aura de mistério. Quando ele enfim chega perto o bastante para que você consiga ver o rosto dele, você não acredita no que esta a sua frente. O atendente era na verdade Michael Jackson que não morreu, mas sim forjou sua propriamorte e abriu um restaurante no centro de Londrina. Qual sua reação?",
         alternativas: [
             {
-                texto: "Desconfiado da situação, decide averiguar se o homem a sua frente era realmente o rei do pop. Então diz (OOOOUUUUUUUUUUU) esperandonuma resposta.",
+                texto: "Desconfiado da situação, decide averiguar se o homem a sua frente era realmente o rei do pop. Então diz (OOOOUUUUUUUUUUU) esperando uma resposta.",
                 afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "EEU SABIA QUE VOCÊ ESTAVA VIVO (E comemora fazendo o moonwalk).",
                 afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Você emocionado por ter encontrado seu ídolo e Michael Jackson emocionado por ter encontrado um fã decidem comemorar. O que descidem fazer?",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes."
+                texto: "Fazem uma pizza juntos e comem a luz de velas.",
+                afirmacao: "O clima rolou com ele cantando Billie Jean, e você ganhou umamemória eterna."
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!"
+                texto: "Decidem ir para um boteco.",
+                afirmacao: "Os dois ficaram bebados e cairam na porrada!"
             }
-        ]
+        ];
     },
     {
         enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
